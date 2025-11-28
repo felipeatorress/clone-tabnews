@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Frase inspiradora</h1>
+    return <h1>Frase muito inspiradora!</h1>
 }
 
 export default Home;
